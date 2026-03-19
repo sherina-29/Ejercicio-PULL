@@ -22,3 +22,6 @@ Antes de empezar, asegúrate de lo siguiente:
   git --version
   git config user.name "Tu Nombre"
   git config user.email "tu@email.com"
+
+  
+##### Hola, solo estoy de paso
